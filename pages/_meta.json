@@ -1,6 +1,8 @@
 {
   "index": "Introduction",
   "guides": "Guides",
+  "faq": "FAQ",
+  "reference": "Reference",
   "about": {
     "title": "About",
     "type": "page"
